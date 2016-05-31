@@ -19,5 +19,4 @@ describe('Home Page', function() {
       expect(text).to.equal("You've pressed the button 1 times.");
     });
   });
-  
 });
