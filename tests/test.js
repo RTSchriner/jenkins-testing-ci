@@ -6,7 +6,6 @@ describe('Home Page', function() {
       expect(browser.getTitle()).to.equal('simple');
     });
   });
-  
   describe('Counter Button', function () {
     it('should be set to 0 @watch', function () {
       var text = browser.getText('p')
