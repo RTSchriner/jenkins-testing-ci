@@ -20,5 +20,4 @@ describe('Home Page', function() {
     });
   });
   
-  
 });
