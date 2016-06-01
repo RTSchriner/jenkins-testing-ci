@@ -22,3 +22,4 @@ session
 practicalmeteor:mocha
 practicalmeteor:chai
 dispatch:mocha-phantomjs
+tmeasday:acceptance-test-driver
